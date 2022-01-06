@@ -1,3 +1,4 @@
+<hr>
 ```yml
 #############################################################
 # Hello there! #
@@ -18,5 +19,4 @@ TheGigaDev:
 <br>
 <hr>
 <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thegigadev&bg_color=0D1117&color=b4b4b4&line=F85D7F&point=b4b4b4&hide_border=true" />
-<br>
 <hr>

@@ -14,7 +14,7 @@ TheGigaDev:
         - languages: ["Python", "YML/Json", "HTML/CSS/PHP"]
     experience:
         - jobs: ["TBD"]
-        - projects: ["TBD"]
+        - projects: ["YourCord"]
 ```
 
 <br>

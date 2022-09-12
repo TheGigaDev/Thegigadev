@@ -14,7 +14,10 @@ TheGigaDev:
         - languages: ["Python", "YML/Json", "HTML/CSS/PHP"]
     experience:
         - jobs: ["TBD"]
-        - projects: ["ToolCord"]
+        - projects: ["Firewave"]
+        - freelance: 
+            - "Completed 2 paid code requests for users"
+            - "Completed 2 paid script repairs for users"
 ```
 
 <br>

@@ -1,5 +1,5 @@
 # TheGigaDev
-<img src="https://raw.githubusercontent.com/Thegigadev/Thegigadev/output/github-contribution-grid-snake.svg" alt="snek"></center>
+<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Thegigadev&theme=react&border=61dafb&hide_border=true" alt="gigadev" />
 ---
 ```yml
 #############################################################

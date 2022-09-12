@@ -5,19 +5,34 @@
 # Hello there! #
 ############################################################
 TheGigaDev: 
-    personal: 
-        - age: 14
-        - gender: male
-        - location: "NYC, NY, The United States 🇺🇸"
-    programming:
-        - tools: ["repl.it/vscode/vscodium", "git/github"]
-        - languages: ["Python", "YML/Json", "HTML/CSS/PHP"]
-    experience:
-        - jobs: ["TBD"]
-        - projects: ["Firewave"]
-        - freelance: 
-            - "Completed 2 paid code requests for users"
-            - "Completed 2 paid script repairs for users"
+ personal: 
+    - 
+      age: 14
+    - 
+      gender: male
+    - 
+      location: "NYC, NY, The United States 🇺🇸"
+  programming: 
+    - 
+      tools: 
+        - repl.it/vscode/vscodium
+        - git/github
+    - 
+      languages: 
+        - Python
+        - YAML/Json
+        - HTML/CSS/PHP
+  experience: 
+    - 
+      jobs: 
+        - TBD
+    - 
+      projects: 
+        - TBD
+    - 
+      freelance: 
+        - "Completed 2 paid code requests for users"
+        - "Completed 2 paid script fixes for users"
 ```
 
 <br>

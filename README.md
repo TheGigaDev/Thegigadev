@@ -1,4 +1,5 @@
 # TheGigaDev
+<img src="https://raw.githubusercontent.com/Thegigadev/Thegigadev/output/github-contribution-grid-snake.svg" alt="snek"></center>
 ---
 ```yml
 #############################################################

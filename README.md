@@ -1,7 +1,6 @@
 # TheGigaDev
-<img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Thegigadev&theme=react&border=61dafb&hide_border=true" alt="gigadev" />
-<br>
----
+<img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Thegigadev&theme=react&border=61dafb&hide_border=true" alt="gigadev" />
+<br><hr>
 
 ```yml
 #############################################################

@@ -1,4 +1,5 @@
-<h1> align="center">TheGigaDev</h1>
+<h1 align="center">TheGigaDev</h1>
+<img width=1000 height=230 src="https://github-readme-streak-stats.herokuapp.com/?user=Thegigadev&theme=react&border=61dafb&hide_border=true" alt="gigadev"/>
 <br><hr>
 ```yml
 #############################################################

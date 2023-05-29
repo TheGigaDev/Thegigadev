@@ -9,7 +9,7 @@
 TheGigaDev: 
  personal: 
     - 
-      age: 14
+      age: 15
     - 
       gender: male
     - 
@@ -30,7 +30,7 @@ TheGigaDev:
         - TBD
     - 
       projects: 
-        - TBD
+        - Contributed to SelfCord.py Discord api wrapper (https://github.com/Shell1010/Selfcord)
     - 
       freelance: 
         - "Completed 2 paid code requests for users"
@@ -38,6 +38,4 @@ TheGigaDev:
 ```
 
 <br>
-<hr>
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Thegigadev&bg_color=0D1117&color=b4b4b4&line=F85D7F&point=b4b4b4&hide_border=true" />
 <hr>

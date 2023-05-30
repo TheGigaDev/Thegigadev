@@ -21,9 +21,9 @@ TheGigaDev:
         - git/github
     - 
       languages: 
-        - Python
-        - YAML/Json
-        - HTML/CSS/PHP
+        - Backend: ["Python"]
+        - Data-Serialization: ["YAML/XML", "JSON"] 
+        - Frontend: ["HTML", "CSS"]
   experience: 
     - 
       jobs: 

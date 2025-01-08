@@ -1,9 +1,7 @@
 <h1 align="center">🐍 TheGigaDev 🖥️</h1>
 
-
-<div style="margin-right 30px;">[![Stats](https://github-readme-stats.vercel.app/api?username=Thegigadev&hide=prs&show_icons=true&theme=transparent&hide_border=true)](https://github.com/Thegigadev)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Thegigadev&hide=prs&show_icons=true&theme=transparent&hide_border=true)](https://github.com/Thegigadev)
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thegigadev&hide_progress=true&theme=transparent&hide_border=true)](https://github.com/Thegigadev)
-</div>
 
 <hr>
 

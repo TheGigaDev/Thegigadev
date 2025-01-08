@@ -1,5 +1,6 @@
 <h1 align="center">🐍 TheGigaDev 🖥️</h1>
 
+<hr>
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Thegigadev&theme=merko)](https://github.com/Thegigadev/github-readme-activity-graph)
 
 <hr>
